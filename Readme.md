@@ -1,6 +1,6 @@
 <a name="top"></a>
 #  Speech Denoising with Deep Feature Losses
-This is a Tensorflow implementation of our Speech Denoising Convolutional Neural Network trained with Deep Feature Losses.
+This is a Tensorflow implementation of our Speech Denoising Convolutional Neural Network trained with Deep Feature Losses. See [here](https://ccrma.stanford.edu/~francois/SpeechDenoisingWithDeepFeatureLosses/) for audio examples. 
 
 Contact: [François Germain](mailto:francois@ccrma.stanford.edu)
 

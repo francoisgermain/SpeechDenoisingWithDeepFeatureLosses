@@ -1,6 +1,6 @@
 <a name="top"></a>
 #  Speech Denoising with Deep Feature Losses
-This is a Tensorflow implementation of our Speech Denoising Convolutional Neural Network trained with Deep Feature Losses.
+This is a Tensorflow implementation of our [Speech Denoising Convolutional Neural Network trained with Deep Feature Losses](https://arxiv.org/abs/1806.10522).
 
 Contact: [François Germain](mailto:francois@ccrma.stanford.edu)
 
@@ -17,7 +17,7 @@ Contact: [François Germain](mailto:francois@ccrma.stanford.edu)
 <a name="citation"></a>
 ## Citation
 If you use our code for research, please cite our paper:
-François G. Germain, Qifeng Chen, and Vladlen Koltun. Speech Denoising with Deep Feature Losses.
+François G. Germain, Qifeng Chen, and Vladlen Koltun. Speech Denoising with Deep Feature Losses. [arXiv:1806.10522](https://arxiv.org/abs/1806.10522). 2018.
 
 ### License
 The source code is published under the MIT license. See [LICENSE](./LICENCE) for details. In general, you can use the code for any purpose with proper attribution. If you do something interesting with the code, we'll be happy to know. Feel free to contact us.

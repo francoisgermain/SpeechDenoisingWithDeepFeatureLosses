@@ -1,5 +1,5 @@
 <a name="top"></a>
-#  Speech Denoising with Deep Feature Losses
+#  Speech Denoising with Deep Feature Losses ([arXiv](https://arxiv.org/abs/1806.10522), [sound examples](https://ccrma.stanford.edu/~francois/SpeechDenoisingWithDeepFeatureLosses/))
 This is a Tensorflow implementation of our [Speech Denoising Convolutional Neural Network trained with Deep Feature Losses](https://arxiv.org/abs/1806.10522).
 
 Contact: [François Germain](mailto:francois@ccrma.stanford.edu)

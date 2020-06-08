@@ -52,7 +52,7 @@ followed by:
 
 `python senet_infer.py`
 
-The denoised files will be stored in the folder _dataset/valset_noisy\_denoised/_, with the same name as the corresponding source files in _dataset/valset_noisy/_.
+The denoised files will be stored in the folder _dataset/valset_clean/_, with the same name as the corresponding source files in _dataset/valset_noisy/_.
 
 ### Default data download
 
